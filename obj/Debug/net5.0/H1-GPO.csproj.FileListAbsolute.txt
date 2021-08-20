@@ -1,0 +1,15 @@
+C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\H1-GPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\H1-GPO.AssemblyInfoInputs.cache
+C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\H1-GPO.AssemblyInfo.cs
+C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\H1-GPO.csproj.CoreCompileInputs.cache
+C:\Users\Bruger 1\source\repos\H1-GPO\bin\Debug\net5.0\H1-GPO.exe
+C:\Users\Bruger 1\source\repos\H1-GPO\bin\Debug\net5.0\H1-GPO.deps.json
+C:\Users\Bruger 1\source\repos\H1-GPO\bin\Debug\net5.0\H1-GPO.runtimeconfig.json
+C:\Users\Bruger 1\source\repos\H1-GPO\bin\Debug\net5.0\H1-GPO.runtimeconfig.dev.json
+C:\Users\Bruger 1\source\repos\H1-GPO\bin\Debug\net5.0\H1-GPO.dll
+C:\Users\Bruger 1\source\repos\H1-GPO\bin\Debug\net5.0\ref\H1-GPO.dll
+C:\Users\Bruger 1\source\repos\H1-GPO\bin\Debug\net5.0\H1-GPO.pdb
+C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\H1-GPO.dll
+C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\ref\H1-GPO.dll
+C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\H1-GPO.pdb
+C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\H1-GPO.genruntimeconfig.cache

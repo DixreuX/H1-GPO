@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="H1_GPO.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="H1_GPO.MainLoop">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAARAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\MainLoop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="H1_GPO.Menu">
+    <Position X="8.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAIAAAAQAAABCAAAAAgAAAAAAAAQAA=</HashCode>
+      <FileName>Menues\Abstract Base Class\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="H1_GPO.MainMenu">
+    <Position X="5.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menues\Derived Classes\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="H1_GPO.RequiredMenu">
+    <Position X="0.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Menues\Derived Classes\RequiredMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="H1_GPO.ExtraMenu">
+    <Position X="3.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Menues\Derived Classes\ExtraMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="H1_GPO.EO1">
+    <Position X="3.25" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAQgAQAAAAAAAAA=</HashCode>
+      <FileName>AllAssignments\ExtraAssignments\EO1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="H1_GPO.EO2">
+    <Position X="3.25" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAgAAAAAAACgAQAAAAAAAAA=</HashCode>
+      <FileName>AllAssignments\ExtraAssignments\EO2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="H1_GPO.RO1_BeskrivDatatyper">
+    <Position X="0.5" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllAssignments\RequiredAssignments\RO1_BeskrivDatatyper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="H1_GPO.RO2_Sortering">
+    <Position X="0.5" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAQCAAAAAAAAAAAAAAQAgA=</HashCode>
+      <FileName>AllAssignments\RequiredAssignments\RO2_ Sortering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

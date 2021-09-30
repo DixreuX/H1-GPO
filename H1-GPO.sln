@@ -5,10 +5,6 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H1-GPO", "H1-GPO.csproj", "{25D8376D-AA31-4E65-B7A7-6C28C7626909}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rap Finands", "..\..\..\OneDrive\Dokumenter\SKOLEPRAKTIK\HOVEDFORLØB\H1\Grundlæggende Programmering\Rap_Finands\Rap_Finands\Rap Finands.csproj", "{652144DC-DF90-4EBD-BC63-C64812F6DBA3}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanCodeExersises", "..\..\..\OneDrive\Dokumenter\SKOLEPRAKTIK\HOVEDFORLØB\H1\Grundlæggende Programmering\CleanCodeExersises\CleanCodeExersises\CleanCodeExersises\CleanCodeExersises.csproj", "{3AB977A9-33DB-4E5F-816D-B2BA212B0A46}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{25D8376D-AA31-4E65-B7A7-6C28C7626909}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25D8376D-AA31-4E65-B7A7-6C28C7626909}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25D8376D-AA31-4E65-B7A7-6C28C7626909}.Release|Any CPU.Build.0 = Release|Any CPU
-		{652144DC-DF90-4EBD-BC63-C64812F6DBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{652144DC-DF90-4EBD-BC63-C64812F6DBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{652144DC-DF90-4EBD-BC63-C64812F6DBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{652144DC-DF90-4EBD-BC63-C64812F6DBA3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3AB977A9-33DB-4E5F-816D-B2BA212B0A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3AB977A9-33DB-4E5F-816D-B2BA212B0A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3AB977A9-33DB-4E5F-816D-B2BA212B0A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3AB977A9-33DB-4E5F-816D-B2BA212B0A46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

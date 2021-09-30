@@ -13,3 +13,4 @@ C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\H1-GPO.dll
 C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\ref\H1-GPO.dll
 C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\H1-GPO.pdb
 C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\H1-GPO.genruntimeconfig.cache
+C:\Users\Bruger 1\source\repos\H1-GPO\obj\Debug\net5.0\H1-GPO.csproj.AssemblyReference.cache

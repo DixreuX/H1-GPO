@@ -11,7 +11,7 @@ namespace H1_GPO
     {
         public void HelpText()
         {
-            ForegroundColor = ConsoleColor.Blue;
+            ForegroundColor = ConsoleColor.Green;
             WriteLine(
 @" 
 

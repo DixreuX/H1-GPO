@@ -71,10 +71,10 @@ namespace H1_GPO
 
         public void QuickSorting()
         {
-            Clear();
-
-            WriteLine("\n\n\n  Now lets use Quick Sort to put them in their correct positions. Press ENTER to use magic and peform powerful sorting spell\n\n");
+            QuickSort QS = new QuickSort();
+            QS.DisplayQuickSort();
             ReadKey();
         }
+
     }
 }
